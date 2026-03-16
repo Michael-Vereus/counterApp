@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">counterApp</string>
+    <string name="addOne">+1</string>
+    <string name="remOne">-1</string>
+    <string name="reset">Reset</string>
+    <string name="addHundred">+100</string>
+</resources>
